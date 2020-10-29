@@ -3,8 +3,21 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4d483cc-d4e2-4217-98b1-fd28b07a5925" name="Default Changelist" comment="" />
+    <list default="true" id="a4d483cc-d4e2-4217-98b1-fd28b07a5925" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filter_keyword_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/filter_keyword_test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/php/php.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -65,11 +78,35 @@
       <workItem from="1603912593384" duration="6080000" />
       <workItem from="1603996342515" duration="3120000" />
       <workItem from="1603999569831" duration="5899000" />
+      <workItem from="1604005588840" duration="1105000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1604005618965</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604005618965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="384" y="215" key="#CLI_Interpreters" timestamp="1603915607260">
@@ -88,22 +125,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="584" y="315" key="FileChooserDialogImpl/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005463394" />
-    <state width="1385" height="267" key="GridCell.Tab.0.bottom" timestamp="1604005511594">
+    <state width="1385" height="378" key="GridCell.Tab.0.bottom" timestamp="1604006539930">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1385" height="267" key="GridCell.Tab.0.bottom/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005511594" />
-    <state width="1385" height="267" key="GridCell.Tab.0.center" timestamp="1604005511594">
+    <state width="1385" height="378" key="GridCell.Tab.0.bottom/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604006539930" />
+    <state width="1385" height="378" key="GridCell.Tab.0.center" timestamp="1604006539930">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1385" height="267" key="GridCell.Tab.0.center/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005511594" />
-    <state width="1385" height="267" key="GridCell.Tab.0.left" timestamp="1604005511593">
+    <state width="1385" height="378" key="GridCell.Tab.0.center/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604006539930" />
+    <state width="1385" height="378" key="GridCell.Tab.0.left" timestamp="1604006539929">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1385" height="267" key="GridCell.Tab.0.left/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005511593" />
-    <state width="1385" height="267" key="GridCell.Tab.0.right" timestamp="1604005511594">
+    <state width="1385" height="378" key="GridCell.Tab.0.left/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604006539929" />
+    <state width="1385" height="378" key="GridCell.Tab.0.right" timestamp="1604006539930">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1385" height="267" key="GridCell.Tab.0.right/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005511594" />
+    <state width="1385" height="378" key="GridCell.Tab.0.right/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604006539930" />
     <state x="635" y="447" key="NewPhpFileDialog" timestamp="1603913038958">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -112,5 +149,13 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="301" y="168" key="SettingsEditor/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1603915004709" />
+    <state x="314" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604005657978">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="314" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005657978" />
+    <state x="540" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604005893329">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="540" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040/-900.-232.900.1519@0.0.2560.1040" timestamp="1604005893329" />
   </component>
 </project>
