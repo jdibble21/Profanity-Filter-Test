@@ -2,15 +2,16 @@
 // Separate file from index.php for testing and experimenting
 
 // When running just this file, change $input to test custom input
-$input = "jake is a nice shit";
+$input = "jake is an ok person";
 $input_array = explode(" ",$input);
 
 $is_bad = False;
 $file_contents = file_get_contents("blacklist.txt");
-$blacklist_array = array(explode('/',$file_contents));
+$blacklist_array = explode('/',$file_contents);
+
 for ($j=0; $j < count($input_array); $j++){
-    for ($i=0; $i < count($blacklist_array[0]); $i++){
-        if($input_array[$j] == strval($blacklist_array[0][$i])){
+    for ($i=0; $i < count($blacklist_array); $i++){
+        if($input_array[$j] == strval($blacklist_array[$i])){
             $is_bad = True;
         }
     }
