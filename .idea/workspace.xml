@@ -14,8 +14,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d483cc-d4e2-4217-98b1-fd28b07a5925" name="Default Changelist" comment="Add documentation comments">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filter_keyword_test.php" beforeDir="false" afterPath="$PROJECT_DIR$/filter_keyword_test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +78,7 @@
       <workItem from="1603999569831" duration="5899000" />
       <workItem from="1604005588840" duration="2024000" />
       <workItem from="1604008546480" duration="2178000" />
+      <workItem from="1604084833561" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1604005618965</created>

@@ -14,7 +14,7 @@
 </head>
 <body>
     <form action="index.php" method="post">
-        Enter input: <input type="text" name="input">
+        Enter input: <input type="text" autocomplete="off" name="input">
         <input type="submit" value="Check for Profanity">
     </form>
     <?php
